@@ -1,0 +1,9 @@
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/home/mark/Documents/Projects/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
